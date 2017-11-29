@@ -17,12 +17,12 @@ ideas.
 
 ## Usage
 
-After cloning the project, install the archetype to your local repository.
+After cloning the project, install the archetype to your local repository
 
     cd spring-boot-gae-stub
     mvn install
     
-Use archetype to create a new project stub.
+Use archetype to create a new project stub
 
     mvn archetype:generate \
       -DarchetypeGroupId=fi.karilaalo \
@@ -34,6 +34,7 @@ Use archetype to create a new project stub.
       
 Run stub project with dev server
 
+	cd <artifactId>
     mvn appengine:run
 
 ## Credits
