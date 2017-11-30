@@ -11,8 +11,8 @@ on app engine it makes convenient platform to run also Spring Boot applications.
 Container environment, e.g. [Kubernetes](https://cloud.google.com/kubernetes-engine/),
 would also make a great platform for Spring Boot. However, with app engine, you get
 24 hours of free of charge instance hours. With Kubernetes you will pay for every
-instance hour and the requirement of master node makes you pay fot at least for
-two instances. So that maks app engine an inexpensive choice for trying out different
+instance hour and the requirement of master node makes you pay for at least for
+two instances. So that makes app engine an inexpensive choice for trying out different
 ideas.
 
 ## Usage
